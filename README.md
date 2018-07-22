@@ -1,4 +1,4 @@
-![git hub ](https://github.com/thisismrsanjay/MERN-fullstack-basic/blob/master/MERN.png)
+![git hub ](https://github.com/thisismrsanjay/MERN-fullstack-basic/blob/master/MERN.PNG)
 
 
 npm run dev
